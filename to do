@@ -1,0 +1,33 @@
+XXXX: rabit and tourtise list stuff - didn't help that much
+
+
+-> -R and .. symliinks
+
+
+-> make getlongestname iterative (speed thing)
+
+
+XXXX: figure out the /tmp thing & pathing crap (one thing actually) &
+
+-> links & slash m8
+    -> for dirs
+        -> print link only when -l
+        -> print link only when no slash
+    -> for items
+        -> print link when -l
+        -> when theres a slash use stat not lstat
+
+
+XXXX: ls (file)
+
+
+XXXX: error stuff (perms) - sorta fixed
+
+
+XXXX: /Library/Scripts/42 ??!!?? -yo wtf - yeah still no idea really, but just "ls /Library/Scripts/42" works
+
+XXXX: Added # defines to make things more clear
+
+*****-> FIX FSPACE - WHY TF IS IT MADE LIKE THAT -fuck it, it works*****
+
+XXXX: DO THE DOUMENTATION BRO!!!!
